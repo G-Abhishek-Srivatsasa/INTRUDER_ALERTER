@@ -1,2 +1,0 @@
-# INTRUDER_ALERT
-
